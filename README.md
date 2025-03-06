@@ -30,7 +30,7 @@ NavAIgate is an Android application designed to assist visually impaired individ
 2. Follow the on-screen instructions to set up your profile.
 3. Start navigating by entering your destination or using voice commands.
 
-## Contributing
+## Contributing vishal
 We welcome contributions! Please follow these steps:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
